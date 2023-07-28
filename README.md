@@ -1,3 +1,3 @@
 # React Form Projesi
 
-- React kullanarak form geliştirme.
+- React kullanarak jira uygulaması geliştirme.
